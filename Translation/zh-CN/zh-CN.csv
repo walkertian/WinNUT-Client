@@ -120,7 +120,7 @@ Valid,nonPointer,Settings,设置
 Valid,nonPointer,Show ChangeLog,显示更新日志
 Valid,nonPointer,Shutdown,关机
 Valid,nonPointer,Shutdown if battery lower than,如果电池低于百分比则关机
-Valid,nonPointer,Shutdown if runtime lower than (sec),如果续航时间低于则关机
+Valid,nonPointer,Shutdown if runtime lower than (sec),如果续航时间低于则关机（秒）
 Valid,Gawindx,Shutdown on NUT's FSD Signal,收到 FSD（强制关机）信号后关机
 Valid,nonPointer,Shutdown Options,关机选项
 Valid,nonPointer,Sleep,睡眠
